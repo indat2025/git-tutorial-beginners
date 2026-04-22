@@ -1,4 +1,4 @@
-# the best github repo out there
+* the best github repo out there
 this is readme
 the best ways are: 
 - eat
@@ -6,3 +6,7 @@ the best ways are:
 - code
 - repeat
 
+Thank you!
+
+## summary 
+its a nice repo
